@@ -1,1 +1,10 @@
-# CS330
+# CS330 Reflection:
+
+# How do I approach designing software?
+When I design software, I start by getting a clear understanding of the project requirements and breaking everything down into manageable parts. For this project, I wanted to create a realistic breakfast table scene, so I focused on keeping things organized and scalable. I planned out each step by choosing textures, setting up lighting, and determining where everything should go. I created functions like CreateGLTexture and SetTransformations to centralize tasks like texture loading, scaling, and positioning. This made it easier to maintain consistency across the scene. Working this way allowed me to focus on one task at a time, such as rendering the table or arranging the food and cutlery, without feeling overwhelmed. Using modular programming streamlined the process, making it easier to test, tweak, and expand on what I had.
+
+# How do I approach developing programs?
+When I develop programs, I focus on building a solid foundation first and then adding features step by step. For this project, I made sure the core building blocks were in place and everything was technically sound. I then tackled one object at a time, like the table or the mug, ensuring each one worked and looked good before moving on to the next. Along the way, I continuously tested and adjusted details, such as the placement and proportions of the egg, bacon, and toast, until everything looked just right. This step-by-step approach made it easy to catch and fix issues early, and it was incredibly satisfying to see the scene come together piece by piece into something polished and realistic.
+
+# How can computer science help me in reaching my goals?
+In my eyes, computer science is so important. It takes creative ideas and turns them into a reality through real, functional solutions. This project showed me the power of computational graphics. Starting with a simple idea, I created a detailed breakfast table scene and, in the process, learned key skills like texture mapping, lighting, and rendering. These new skills inspire me to keep learning and exploring new technologies to reach both my educational and professional goals.
